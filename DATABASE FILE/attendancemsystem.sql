@@ -41,7 +41,7 @@ CREATE TABLE `tbladmin` (
 --
 
 INSERT INTO `tbladmin` (`Id`, `firstName`, `lastName`, `emailAddress`, `password`) VALUES
-(1, 'Surya', 'joshi', 'jsurya860@gmail.com', 'e10adc3949ba59abbe56e057f20f883e');
+(1, 'manoranjan', 'sahoo', 'sahoomanoranjan747@gmail.com', 'Chintu@123');
 
 -- --------------------------------------------------------
 
